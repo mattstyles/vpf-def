@@ -1,0 +1,13 @@
+{
+  "recent": [
+    { 
+      "post" : {
+  	    "title"    : "Dummy Post",
+            "loc"      : "/dummy/",
+  	    "category" : "Ninja Category",
+  	    "date"     : "Tuesday 1st Jan 2013",
+  	    "extract"  : "This is a short extract for a dummy post - welcome to Viperfish"
+  	  }
+  	}   
+  ]
+}

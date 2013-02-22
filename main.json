@@ -1,0 +1,18 @@
+{
+  "nav": [ 
+  	{ "item" : "Ninja" },
+  	{ "item" : "Flex" }
+  ],
+
+  "recent": [
+    { 
+      "post" : {
+  	    "title"    : "Dummy Post Title",
+	    "loc"      : "/Ninja/dummy/",
+  	    "category" : "Dummy category",
+  	    "date"     : "Tuesday 1st Jan 2013",
+  	    "extract"  : "This is a short extract for a dummy post - welcome to Viperfish"
+  	  }
+  	}
+  ]
+}
