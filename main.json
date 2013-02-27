@@ -13,6 +13,15 @@
   	    "date"     : "Tuesday 1st Jan 2013",
   	    "extract"  : "This is a short extract for a dummy post - welcome to Viperfish"
   	  }
-  	}
+  	},
+      {
+          "post" : {
+              "title"    : "A Post",
+              "loc"      : "/post/",
+              "category" : "ninja",
+              "date"     : "Friday 1st Jan 2013",
+              "extract"  : "This is another short post"
+          }
+      }
   ]
 }
