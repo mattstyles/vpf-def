@@ -1,7 +1,13 @@
 {
   "recents": [
-    {
-      "post" : {}
-    }
+      {
+          "post" : {
+              "title"    : "Type test",
+              "loc"      : "/type/",
+              "category" : "flex",
+              "date"     : "Tuesday 1st Jan 2013",
+              "extract"  : "This is a post with various typographical elements and should be used to test styling for custom themes"
+          }
+      }
   ]
 }

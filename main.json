@@ -5,23 +5,32 @@
   ],
 
   "recent": [
-    { 
+    {
       "post" : {
-  	    "title"    : "Dummy Post Title",
-	    "loc"      : "/dummy/",
-  	    "category" : "ninja",
-  	    "date"     : "Tuesday 1st Jan 2013",
-  	    "extract"  : "This is a short extract for a dummy post - welcome to Viperfish"
-  	  }
-  	},
-      {
-          "post" : {
-              "title"    : "A Post",
-              "loc"      : "/post/",
-              "category" : "ninja",
-              "date"     : "Friday 1st Jan 2013",
-              "extract"  : "This is another short post"
-          }
+        "title"    : "Dummy Post Title",
+        "loc"      : "/dummy/",
+        "category" : "ninja",
+        "date"     : "Tuesday 1st Jan 2013",
+        "extract"  : "This is a short extract for a dummy post - welcome to Viperfish"
       }
+    },
+    {
+      "post" : {
+          "title"    : "A Post",
+          "loc"      : "/post/",
+          "category" : "ninja",
+          "date"     : "Friday 1st Jan 2013",
+          "extract"  : "This is another short post"
+      }
+    },
+    {
+      "post" : {
+          "title"    : "Type test",
+          "loc"      : "/type/",
+          "category" : "flex",
+          "date"     : "Friday 1st Jan 2013",
+          "extract"  : "This is a post with various typographical elements and should be used to test styling for custom themes"
+      }
+    }
   ]
 }
