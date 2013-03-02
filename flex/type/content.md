@@ -7,6 +7,8 @@ Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla conse
 
 > Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 > In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+>
+> Quote Author
 
 Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean
 vulputate eleifend tellus.
