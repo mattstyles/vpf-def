@@ -72,7 +72,7 @@ Sed fringilla mauris sit amet nibh. `Donec` sodales sagittis magna. `Sed consequ
 cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut,
 mollis sed, nonummy id, metus.
 
-```javascript
+```js
 var x = 0;
 x = x + 1;
 x < 2 ? console.log('under 2') : console.log('2 or over');
